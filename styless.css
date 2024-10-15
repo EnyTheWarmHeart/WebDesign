@@ -1,7 +1,19 @@
 
 
-div {
+.flex-container {
 
-    background-color: rgb(255, 69, 240);
+    display: flex;
+}
+
+
+    .flex-container div {
+
+        background-color: black;
+        flex: 1;
+        height: 140px;
+
+
+
+   
 
 }
