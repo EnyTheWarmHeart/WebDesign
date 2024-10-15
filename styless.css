@@ -1,9 +1,13 @@
 
 
+.flex-container {
+    display: flex;
+}
 
-
-.hero {
-    background-color: hsl(200, 33%, 49%);
-    height: 48px;
-    
-  }
+.flex-container .hero {
+    flex: 10 1 0%;
+    background-color: hsl(91, 89%, 58%);
+    height: auto;
+    justify-content: baseline;
+     
+    }
