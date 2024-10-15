@@ -3,8 +3,7 @@
 
 
 .hero {
-    background-color: #548CA8;
-    padding: 30px;
-    text-align: center;
-    margin-bottom: 10px;
+    background-color: hsl(200, 33%, 49%);
+    height: 48px;
+    
   }
